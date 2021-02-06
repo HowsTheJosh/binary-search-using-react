@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/binary-search-using-react/static/js/main.c9ac99b9.chunk.js",
+    "main.js.map": "/binary-search-using-react/static/js/main.c9ac99b9.chunk.js.map",
+    "runtime-main.js": "/binary-search-using-react/static/js/runtime-main.4250c817.js",
+    "runtime-main.js.map": "/binary-search-using-react/static/js/runtime-main.4250c817.js.map",
+    "static/js/2.48691fc9.chunk.js": "/binary-search-using-react/static/js/2.48691fc9.chunk.js",
+    "static/js/2.48691fc9.chunk.js.map": "/binary-search-using-react/static/js/2.48691fc9.chunk.js.map",
+    "index.html": "/binary-search-using-react/index.html",
+    "static/js/2.48691fc9.chunk.js.LICENSE.txt": "/binary-search-using-react/static/js/2.48691fc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4250c817.js",
+    "static/js/2.48691fc9.chunk.js",
+    "static/js/main.c9ac99b9.chunk.js"
+  ]
+}
