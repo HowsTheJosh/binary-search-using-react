@@ -85,7 +85,7 @@ class App extends React.Component {
     return (
       <div className="">
         <p style={{ textAlign: "center", color: "white", fontSize: "50px" }}>
-          Binary Search
+          BINARY SEARCH
         </p>
         <div
           //className="ui segment"
