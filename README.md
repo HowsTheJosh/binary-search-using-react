@@ -1,4 +1,4 @@
-## You can view the project at http://dabhisharad13.github.io/binary-search-using-react
+## You can view the project at http://HowsTheJosh.github.io/binary-search-using-react
 
 # Getting Started with Create React App
 
